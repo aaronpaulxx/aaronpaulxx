@@ -1,4 +1,3 @@
-[ReadMe.md](https://github.com/user-attachments/files/31028033/ReadMe.md)
 # 💫 About Me:
 🔭 I’m currently working on a React Native/Expo project<br>🌱 I’m currently learning ASP .NET, Typescript and React.js
 
