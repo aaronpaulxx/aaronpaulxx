@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a React Native/Expo project<br>🌱 I’m currently learning ASP .NET, Typescript and React.js
+🔭 I’m currently working on a React Native/Expo project and a ASP.NET project<br>🌱 I’m currently learning Typescript
 
 
 ## 🌐 Socials:
