@@ -1,5 +1,5 @@
 # 💫 About Me:
->UI/UX Designer • Frontend Developer
+>UI/UX Designer • Frontend Developer<br>
 🔭 I’m currently working on a React Native/Expo project and a ASP.NET Web Forms legacy project<br>🌱 I’m currently learning Typescript
 
 
