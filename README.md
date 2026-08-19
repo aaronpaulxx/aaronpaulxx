@@ -1,6 +1,6 @@
 # 💫 About Me:
->UI/UX Designer • Frontend Developer<br>
-🔭 I’m currently working on a React Native/Expo project and a ASP.NET Web Forms legacy project<br>🌱 I’m currently learning Typescript
+>UI/UX Designer • Frontend Developer (and a little bit of backend...)<br>
+🔭 Currently working on a React Native/Expo application and working with a legacy ASP.NET Web Forms system<br>🌱 Deepening my knowledge of TypeScript, React, and modern web development<br>🎨 Passionate about UI/UX, visual design, prototyping, and creating better user experiences<br>🚀 Always learning, experimenting, and building projects to expand my skills
 
 
 ## 🌐 Socials:
