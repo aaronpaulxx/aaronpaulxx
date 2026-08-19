@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on a React Native/Expo project and a ASP.NET project<br>🌱 I’m currently learning Typescript
+>UI/UX Designer • Frontend Developer
+🔭 I’m currently working on a React Native/Expo project and a ASP.NET Web Forms legacy project<br>🌱 I’m currently learning Typescript
 
 
 ## 🌐 Socials:
