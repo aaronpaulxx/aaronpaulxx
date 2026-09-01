@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aaronpaulxx&label=visitors&color=brightgreen&style=for-the-badge" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=aaronpaulxx&label=visitors&color=a32cf2&style=for-the-badge" alt="visitors" />
 </div>
 
 ## 💫 About Me:
